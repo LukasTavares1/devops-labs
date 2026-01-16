@@ -1,0 +1,17 @@
+Execução em: Thu Jan 15 17:32:22 -03 2026
+root         226  0.2  0.2 107028 22272 ?        Ssl  17:30   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          43  0.1  0.2  42164 15624 ?        S<s  17:30   0:00 /usr/lib/systemd/systemd-journald
+systemd+     107  0.1  0.1  21456 12288 ?        Ss   17:30   0:00 /usr/lib/systemd/systemd-resolved
+root         182  0.2  0.1 1756096 11904 ?       Ssl  17:30   0:00 /usr/libexec/wsl-pro-service -vv
+root         180  0.0  0.1  17964  8448 ?        Ss   17:30   0:00 /usr/lib/systemd/systemd-logind
+root           1  0.7  0.1  21728 12192 ?        Ss   17:30   0:00 /sbin/init
+lukastv+     360  0.1  0.1  20312 11264 ?        Ss   17:30   0:00 /usr/lib/systemd/systemd --user
+www-data     215  0.0  0.0  12880  4148 ?        S    17:30   0:00 nginx: worker process
+www-data     214  0.0  0.0  12880  4148 ?        S    17:30   0:00 nginx: worker process
+www-data     213  0.0  0.0  12880  4276 ?        S    17:30   0:00 nginx: worker process
+www-data     211  0.0  0.0  12880  4148 ?        S    17:30   0:00 nginx: worker process
+www-data     209  0.0  0.0  12880  4276 ?        S    17:30   0:00 nginx: worker process
+www-data     208  0.0  0.0  12880  4148 ?        S    17:30   0:00 nginx: worker process
+www-data     206  0.0  0.0  12880  4276 ?        S    17:30   0:00 nginx: worker process
+www-data     204  0.0  0.0  12880  4276 ?        S    17:30   0:00 nginx: worker process
+-----------------------------------------------
